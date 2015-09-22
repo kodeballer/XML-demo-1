@@ -1,0 +1,39 @@
+fallcourses
+{
+}
+class
+{
+font-family:arial;
+
+}
+name
+{
+font-weight:bold;
+font-size:15pt;
+display: block;
+}
+time
+{
+text-align:center;
+font-weight:bold;
+font-style:italic;
+text-decoration:underline;
+display: block;
+}
+day
+{
+color:red;
+}
+startime, endtime
+{
+}
+desc
+{
+display: block;
+}
+notes
+{
+font-style:italic;
+display: block;
+padding-bottom:15px;
+}

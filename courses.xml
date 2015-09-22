@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet type="text/css" href="courses.css"?>
+
+-<fallcourses>
+
+
+-<class>
+
+<name> 4000 - The Information User</name>
+
+
+-<time>
+
+<day>Thursday</day>
+
+<startime>7:00PM </startime>
+
+<endtime>9:30PM </endtime>
+
+</time>
+
+<desc>This course offers a basic knowledge of information literacy and the processes of human communication, cognition, and behavior, including information processing and transfer. The focus is directed toward the development of a fundamental understanding of the information user, enabling the professional to design, implement, and evaluate an information system or process that is sensitive to the behavioral patterns and needs of diverse users.</desc>
+
+<notes>Concentrates on public libraries, but does allow some branching off for students interested in other areas of library science. Group project was a lot of fun!</notes>
+
+</class>
+
+
+-<class>
+
+<name>4010 - Organization of Information</name>
+
+
+-<time>
+
+<day>Monday</day>
+
+<startime>7:00PM</startime>
+
+<endtime>9:30PM</endtime>
+
+</time>
+
+<desc>This course is designed to prepare students to understand the theories and principles of information organization, and explore important methods used for organizing information such as cataloguing, classification, categorization, and indexing.</desc>
+
+<notes>Very technical compared to all the other classes I took. So many acronyms! I'm sure that after I start working more in depth on the topics I will have a better understanding.</notes>
+
+</class>
+
+
+-<class>
+
+<name> 4030 - The Information Environment</name>
+
+
+-<time>
+
+<day>Wednesday</day>
+
+<startime>7:00PM</startime>
+
+<endtime>9:30PM</endtime>
+
+</time>
+
+<desc>The historical and current generation, production, management, dissemination, and use of information are the foundations for this course. Additional topics include the roles of information in society and the global economy, current issues related to the information industries, the economics of information production and services, the impact of technologies and national information policies.</desc>
+
+<notes>Strong emphasis on the future of libraries and how we will be affected by the information age. A bit depressing, but exciting at the same time.</notes>
+
+</class>
+
+</fallcourses>
